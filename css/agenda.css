@@ -1,0 +1,18 @@
+main h1 {
+    margin-left: 30%;
+}
+
+
+.Agenda {
+    color: white;
+    border: solid 5px black;
+    margin-left: 30%;
+}
+
+.Agenda th {
+    border: solid 1px white;
+}
+
+.Agenda td {
+    border: solid 1px white;
+}

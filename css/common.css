@@ -1,0 +1,43 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(37,58,63);
+}
+
+p,h1,h2,h3 {
+    color: white;
+}
+
+
+body>main {
+    margin: 2%;
+}
+
+footer {
+    margin: 2%;
+    color: white;
+    text-decoration: none;
+}
+
+.menu {
+    font-size: 30px;
+    margin-top: -4px;
+    padding: 1%;
+    border: solid 1px;
+    background-color: rgb(37,58,63);
+    color: rgb(48, 57, 73);
+    text-decoration: none;
+}
+
+.menu>a {
+    padding: 1%;
+    border: 1px;
+    color: white;
+    background-color: rgb(37,58,63);
+    text-decoration: none;
+    
+}
+
+.menu>a:hover {
+    opacity: 0.5;
+}

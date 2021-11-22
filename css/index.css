@@ -1,0 +1,22 @@
+.FotoIndex img {
+    border-radius: 20%;
+    float: left;
+    height: 75vh;
+    width: 40%;
+}
+
+
+.Noticias {
+    width: 40%;
+    float: right;
+    font-size: 30px;
+    margin: 2%;
+    padding: 1%;
+    border: solid;
+    color: white;
+}
+
+footer {
+    margin-top: 100px;
+    float: left;
+}

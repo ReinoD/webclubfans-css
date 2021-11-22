@@ -1,0 +1,12 @@
+address {
+    color: white;
+    padding-bottom: 20px;
+}
+
+main iframe {
+    padding-bottom: 20px;
+}
+
+.formulario input,button{
+    color: white;
+}

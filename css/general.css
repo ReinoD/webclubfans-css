@@ -1,0 +1,17 @@
+#si {
+    border: solid 1px;
+    font-style: italic;
+    float: left;
+    margin-bottom: 100px;
+}
+
+main h1,h2{
+    padding-bottom: 10px;
+}
+
+
+#Pelis {
+    display: flex;
+    color: white;
+    padding-left: 1%;
+}
